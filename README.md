@@ -7,7 +7,8 @@ drinking with the boyz
   + Opening bottles/cans
   + Drinking beverages
   + Disorientation (drunk)
-
+  + Toss drink
+  + Stereo interaction
 
 <h2>Haptics</h2>
    
@@ -19,4 +20,13 @@ drinking with the boyz
   + Ice in cooler??
   + Catching drinks (TBI)
 
-
+<h2>Entities</>
+  + Player
+  + Friends
+  + Beverages
+  + Bottle Opener
+  + Cooler
+  + Stereo
+  + Lever (TBI)
+  
+  
