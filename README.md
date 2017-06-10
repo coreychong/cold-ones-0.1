@@ -20,7 +20,8 @@ drinking with the boyz
   + Ice in cooler??
   + Catching drinks (TBI)
 
-<h2>Entities</>
+<h2>Entities</h2>
+
   + Player
   + Friends
   + Beverages
