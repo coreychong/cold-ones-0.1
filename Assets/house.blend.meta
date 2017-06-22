@@ -6,10 +6,69 @@ ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Cube
+    100004: Door
+    100006: Door_Frame
+    100008: Roof
+    100010: Window_1
+    100012: Window_2
+    100014: Window_Glass_1
+    100016: Window_Glass_2
+    100018: Window_3
+    100020: Window_4
+    100022: Window_Glass_3
+    100024: Window_Glass_4
     400000: //RootNode
+    400002: Cube
+    400004: Door
+    400006: Door_Frame
+    400008: Roof
+    400010: Window_1
+    400012: Window_2
+    400014: Window_Glass_1
+    400016: Window_Glass_2
+    400018: Window_3
+    400020: Window_4
+    400022: Window_Glass_3
+    400024: Window_Glass_4
     2300000: //RootNode
+    2300002: Cube
+    2300004: Door
+    2300006: Door_Frame
+    2300008: Roof
+    2300010: Window_1
+    2300012: Window_2
+    2300014: Window_Glass_1
+    2300016: Window_Glass_2
+    2300018: Window_3
+    2300020: Window_4
+    2300022: Window_Glass_3
+    2300024: Window_Glass_4
     3300000: //RootNode
+    3300002: Cube
+    3300004: Door
+    3300006: Door_Frame
+    3300008: Roof
+    3300010: Window_1
+    3300012: Window_2
+    3300014: Window_Glass_1
+    3300016: Window_Glass_2
+    3300018: Window_3
+    3300020: Window_4
+    3300022: Window_Glass_3
+    3300024: Window_Glass_4
     4300000: Cube
+    4300002: Roof
+    4300004: Door
+    4300006: Door_Frame
+    4300008: Window_Glass_2
+    4300010: Window_2
+    4300012: Window_Glass_1
+    4300014: Window_1
+    4300016: Window_Glass_4
+    4300018: Window_4
+    4300020: Window_Glass_3
+    4300022: Window_3
     7400000: Default Take
     9500000: //RootNode
   materials:
