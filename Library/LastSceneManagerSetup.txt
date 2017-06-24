@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/sanic.unity
+- path: Assets/front_yard.unity
   isLoaded: 1
   isActive: 1
